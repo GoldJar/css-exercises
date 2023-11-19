@@ -3,7 +3,7 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-#2 {
+#num2 {
     color: rgb(99, 136, 185);
     font-size: 36px;
 }
@@ -12,7 +12,7 @@
     font-size: 24px;
 }
 
-#4 {
+#num4 {
     background-color: rgb(182, 223, 121), 47;
     font-size: 24px;
     font-weight: bold;
